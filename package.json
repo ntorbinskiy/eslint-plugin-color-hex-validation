@@ -1,11 +1,16 @@
 {
   "name": "color-hex-validation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin for eslint, which will validate CSS HEX values",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nikita",
-  "license": "ISC"
+  "license": "ISC",
+  "private": true,
+  "keywords": ["CSS","ESLint","JS","TS"],
+"repository": {
+  "url": "https://github.com/ntorbinskiy/eslint-plugin-color-hex-validation"
+}
 }
